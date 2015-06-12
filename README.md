@@ -1,6 +1,9 @@
 # selenium-mocha-webdriverjs-test
 Sample mocha test using webdriverjs, selenium, phantomjs and coffeescript
 
+brew install node
+brew install phantomjs
+
 *Resources*
 
 * webdriver tutorial: http://bites.goodeggs.com/posts/selenium-webdriver-nodejs-tutorial/
